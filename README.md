@@ -1,41 +1,22 @@
-# Linux-Unix-Command-Line-Basics 
+# Introduction to Command Line (Linux/Unix) : Free Training 
 
-# Free Training
+Welcome to the "Introduction to Command Line" training repository! This resource is designed to help beginners and bioinformatics enthusiasts learn essential Unix/Linux commands. The repository includes:
+- Training questions to test your knowledge.
+- Correct answers for self-assessment.
 
-## Introduction  
-The command line interface (CLI) is a powerful tool for performing tasks efficiently and reproducibly. It allows users to interact directly with the operating system through keyboard commands, offering capabilities beyond graphical user interfaces (GUI). In this repository, we explore the basics of the Linux/Unix command line and provide a comprehensive guide to essential commands.
+## Structure
+- `questions_training.md`: Contains training questions.
+- `answers_training.md`: Contains correct answers.
+- `resources/`: Additional materials for learning.
 
----
+## How to Use
+1. Read through the provided documentation.
+2. Test your knowledge by answering the questions in `questions_training.md`.
+3. Cross-check your answers using `answers_training.md`.
+4. Explore the `resources/` folder for further learning.
 
-## Features  
-- **Comprehensive Documentation**: Learn key Linux/Unix commands for navigation, file operations, and system management.  
-- **Practical Examples**: Scripts and files to practice with real-world scenarios.  
-- **Command Breakdown**: Each command explained with syntax, options, and examples.  
+## Contribution
+Feel free to contribute by adding new questions, answers, or improving the documentation.
 
----
-
-## Topics Covered  
-1. **Introduction to Command Line Basics**  
-   - What is CLI?  
-   - Difference between CLI and GUI.  
-   - Importance of CLI in bioinformatics.  
-
-2. **Essential Commands**  
-   - File and directory operations (`ls`, `cd`, `mkdir`, `rm`).  
-   - Viewing and editing files (`cat`, `nano`, `gedit`).  
-   - System information (`date`, `uptime`, `top`).  
-
-3. **Advanced Topics**  
-   - Wildcards and shortcuts.  
-   - Pipes and redirection.  
-   - Changing access rights with `chmod`.  
-
----
-
-## Repository Structure  
-- **`docs/`**: Detailed Markdown files for each section.  
-- **`examples/`**: Scripts and files to practice commands.  
-
----
-
-
+## Contact 
+* Linkedin : https://www.linkedin.com/in/houda-boulaares-a7851121a/
