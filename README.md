@@ -1,7 +1,7 @@
 # Introduction to Command Line (Linux/Unix) : Free Training 
 
 Welcome to the "Introduction to Command Line" training repository! This resource is designed to help beginners and bioinformatics enthusiasts learn essential Unix/Linux commands. The repository includes:
-- Training questions to test your knowledge.
+- Training questions to test your knowledge. 
 - Correct answers for self-assessment.
 
 ## Structure
